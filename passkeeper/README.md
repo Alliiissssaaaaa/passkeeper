@@ -38,4 +38,4 @@
 ## Деплой
 
 Проект размещён на **GitHub Pages** и доступен по ссылке:  
-[https://ВАШ-ЛОГИН.github.io/НАЗВАНИЕ-РЕПОЗИТОРИЯ/](https://ВАШ-ЛОГИН.github.io/НАЗВАНИЕ-РЕПОЗИТОРИЯ/)
+[https://alliiissssaaaaa.github.io/passkeeper/](https://alliiissssaaaaa.github.io/passkeeper/)
